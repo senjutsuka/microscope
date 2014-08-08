@@ -7,13 +7,13 @@ postsData = [
 	{
 		title: "Metero"
 		author:"Tom Jon"
-		url:"www.google.com"
+		url:"http://www.google.com"
 		
 	}
 	{
 		title: "The Meat eat oar"
 		author: "memeself"
-		url: "reddit.com"
+		url: "http://reddit.com"
 	}
 
 ]
