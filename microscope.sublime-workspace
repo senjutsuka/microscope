@@ -32,7 +32,7 @@
 			"file": "lib/router.js",
 			"settings":
 			{
-				"buffer_size": 115,
+				"buffer_size": 238,
 				"line_ending": "Unix",
 				"name": "router.js"
 			}
@@ -233,7 +233,7 @@
 					"file": "lib/router.js",
 					"settings":
 					{
-						"buffer_size": 115,
+						"buffer_size": 238,
 						"regions":
 						{
 						},
@@ -495,11 +495,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
